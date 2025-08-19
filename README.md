@@ -57,9 +57,9 @@ Kategoriler: / ?genre=popular | now_playing | upcoming | top_rated
 Arama: / ?query=inception (kategori devre dışı kalır)
 
 📸 Ekran Görüntüleri
+![EkranKayd2025-08-1923 02 51-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/9dc8b525-59a8-48dc-9f7b-9b5e21ce2327)
 
-./public/ içine ekran görüntüleri ekleyip burada göster:
-![MovieApp](./public/screenshot-1.png)
+
 
 ⚖️ Yasal
 
